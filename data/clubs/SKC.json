@@ -1,0 +1,23 @@
+{
+  "name": "SKC",
+  "players": [
+    {
+      "name": "Anna Washington",
+      "email": "jblake@example.com",
+      "chess_id": "TV81977",
+      "birthday": "15-02-2004"
+    },
+    {
+      "name": "Kimberly Hall",
+      "email": "lpearson@example.com",
+      "chess_id": "VS40416",
+      "birthday": "26-07-1945"
+    },
+    {
+      "name": "Carolyn Willis",
+      "email": "christinabrown@example.net",
+      "chess_id": "GD10576",
+      "birthday": "30-03-1945"
+    }
+  ]
+}

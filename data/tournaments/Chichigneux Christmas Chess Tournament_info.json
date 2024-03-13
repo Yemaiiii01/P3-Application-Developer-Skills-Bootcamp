@@ -1,0 +1,125 @@
+{
+    "name": "Chichigneux Christmas Chess Tournament",
+    "dates": {
+        "from": "2024-04-29",
+        "to": "2024-05-29"
+    },
+    "venue": "Chichigneux Community Hall",
+    "number_of_rounds": 7,
+    "current_round": 3,
+    "completed": false,
+    "players": [
+        "YQ88272",
+        "VS40416",
+        "PV16440",
+        "HY04207",
+        "FY61741",
+        "TV81977",
+        "KX94073",
+        "KV43923"
+    ],
+    "rounds": [
+        [
+            {
+                "players": [
+                    "TV81977",
+                    "KV43923"
+                ],
+                "completed": true,
+                "winner": "player2"
+            },
+            {
+                "players": [
+                    "YQ88272",
+                    "KX94073"
+                ],
+                "completed": true,
+                "winner": "player1"
+            },
+            {
+                "players": [
+                    "HY04207",
+                    "FY61741"
+                ],
+                "completed": true,
+                "winner": "player2"
+            },
+            {
+                "players": [
+                    "VS40416",
+                    "PV16440"
+                ],
+                "completed": true,
+                "winner": "player1"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "KX94073",
+                    "VS40416"
+                ],
+                "completed": true,
+                "winner": "player2"
+            },
+            {
+                "players": [
+                    "YQ88272",
+                    "PV16440"
+                ],
+                "completed": true,
+                "winner": "draw"
+            },
+            {
+                "players": [
+                    "KV43923",
+                    "FY61741"
+                ],
+                "completed": true,
+                "winner": "player1"
+            },
+            {
+                "players": [
+                    "HY04207",
+                    "TV81977"
+                ],
+                "completed": true,
+                "winner": "player1"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "YQ88272",
+                    "VS40416"
+                ],
+                "completed": true,
+                "winner": "player2"
+            },
+            {
+                "players": [
+                    "PV16440",
+                    "HY04207"
+                ],
+                "completed": true,
+                "winner": "player1"
+            },
+            {
+                "players": [
+                    "FY61741",
+                    "TV81977"
+                ],
+                "completed": true,
+                "winner": "player2"
+            },
+            {
+                "players": [
+                    "KX94073",
+                    "KV43923"
+                ],
+                "completed": true,
+                "winner": "player1"
+            }
+        ]
+    ]
+}

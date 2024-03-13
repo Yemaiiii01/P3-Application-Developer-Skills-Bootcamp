@@ -1,0 +1,109 @@
+{
+    "name": "Chess Club",
+    "dates": {
+        "from": "2024-04-04",
+        "to": "2024-04-11"
+    },
+    "venue": "Sky Lounge",
+    "number_of_rounds": 5,
+    "current_round": 5,
+    "completed": true,
+    "players": [
+        "JW63361",
+        "LS93715",
+        "BR95594",
+        "NG39713"
+    ],
+    "rounds": [
+        [
+            {
+                "players": [
+                    "JW63361",
+                    "NG39713"
+                ],
+                "completed": true,
+                "winner": "player2"
+            },
+            {
+                "players": [
+                    "BR95594",
+                    "LS93715"
+                ],
+                "completed": true,
+                "winner": "draw"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "NG39713",
+                    "BR95594"
+                ],
+                "completed": true,
+                "winner": "draw"
+            },
+            {
+                "players": [
+                    "JW63361",
+                    "LS93715"
+                ],
+                "completed": true,
+                "winner": "player2"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "JW63361",
+                    "NG39713"
+                ],
+                "completed": true,
+                "winner": "player1"
+            },
+            {
+                "players": [
+                    "BR95594",
+                    "LS93715"
+                ],
+                "completed": true,
+                "winner": "player2"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "LS93715",
+                    "NG39713"
+                ],
+                "completed": true,
+                "winner": "player2"
+            },
+            {
+                "players": [
+                    "BR95594",
+                    "JW63361"
+                ],
+                "completed": true,
+                "winner": "player1"
+            }
+        ],
+        [
+            {
+                "players": [
+                    "JW63361",
+                    "LS93715"
+                ],
+                "completed": true,
+                "winner": "player2"
+            },
+            {
+                "players": [
+                    "BR95594",
+                    "NG39713"
+                ],
+                "completed": true,
+                "winner": "draw"
+            }
+        ]
+    ]
+}
